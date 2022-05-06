@@ -60,7 +60,7 @@ function App() {
             <hr/>
             <RenderizadoElementos />
             <hr/>
-            <Eventos></Eventos>
+            <Eventos />
           </section>
         </header>
       </div>
